@@ -10,9 +10,13 @@ CV Creator created with ReactJS & Redux
 ## Features
 
 - Select template
+![select-template](https://apps.coffeedzic.com/cvreator/select.jpg)
 - Enter your details
+![details](https://apps.coffeedzic.com/cvreator/details.jpg)
 - Enter settings on your own
-- Generate
+![settings](https://apps.coffeedzic.com/cvreator/settings.jpg)
+- Save your CV
+![save](https://apps.coffeedzic.com/cvreator/save.jpg)
 
 ## Test it localy
 
@@ -32,4 +36,4 @@ npm build
 
 ## License
 
-c(v)reator is licensed under the [MIT](https://github.com/coffeedzic/cvreator-react/blob/main/LICENSE) license.
+c(v)reator is licensed under the [MIT](https://github.com/coffeedzic/cvreator/blob/main/LICENSE) license.
