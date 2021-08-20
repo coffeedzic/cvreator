@@ -10,12 +10,19 @@ CV Creator created with ReactJS & Redux
 ## Features
 
 - Select template
+
 ![select-template](https://apps.coffeedzic.com/cvreator/select.jpg)
+
 - Enter your details
+
 ![details](https://apps.coffeedzic.com/cvreator/details.jpg)
+
 - Enter settings on your own
+
 ![settings](https://apps.coffeedzic.com/cvreator/settings.jpg)
+
 - Save your CV
+
 ![save](https://apps.coffeedzic.com/cvreator/save.jpg)
 
 ## Test it localy
