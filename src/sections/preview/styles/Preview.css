@@ -1,0 +1,15 @@
+.preview {
+  height: 100%;
+  width: 75%;  
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  overflow: auto;
+  padding: 24px;
+}
+
+.preview .paper {
+  width: 21cm;
+  height: 29.7cm;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}

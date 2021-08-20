@@ -1,0 +1,13 @@
+.creator {
+  height: 100%;
+  width: 25%;  
+  background-color: var(--bg);
+  padding: 0px 20px;
+  border-right: 1px solid var(--line-border);
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  overflow: auto;
+}
+
+.creator-main {
+  padding: 24px 0px;
+}

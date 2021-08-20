@@ -1,0 +1,27 @@
+.float-menu {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 8px;
+}
+
+.float-menu .float-menu-btn {
+  background-color: var(--color);
+  color: var(--bg);
+  padding: 8px 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.float-menu .float-menu-btn:hover {
+  background-color: var(--primary);
+}
+
